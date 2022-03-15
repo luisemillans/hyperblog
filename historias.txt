@@ -1,6 +1,6 @@
-historias.txt
+﻿historias.txt
 Esta es la historia de fredy vega
 
 fredy vega tiene 33 años y nacio en colombia, vivnendo en todo el mundo
 
-hoy hablaremos de su historia
+hoy hablaremos de su vida
